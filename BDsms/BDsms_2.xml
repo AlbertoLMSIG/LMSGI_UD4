@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="ISO-8850-1"?>
-<!DOCTYPE BDsms
-[
-<!ELEMENT BDsms (sms*)>
-<!ELEMENT sms (telefono, fecha, hora, mensaje)> 
-<!ELEMENT telefono (#PCDATA)> 
-<!ELEMENT fecha (#PCDATA)> 
-<!ELEMENT hora (#PCDATA)> 
-<!ELEMENT mensaje (#PCDATA)>
-]>
-<BDsms>
+<BDsms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="BDsms.xsd">
     <sms>
         <telefono>955 55 66 55</telefono>
         <fecha>1/7/2011</fecha>
