@@ -1,0 +1,133 @@
+
+<e1:libros xmlns:e1="http://libro1.es" xmlns:e2="http://libro2.es">
+    <e1:libro1>
+        <e1:autores>
+            <e1:autor>
+                <e1:nombre>Juan</e1:nombre>
+                <e1:apellido1>Ordoñez</e1:apellido1>
+                <e1:apellido2>Vargas</e1:apellido2>
+            </e1:autor>
+        </e1:autores>
+        <e1:titulo>El pez que se muerde la cola</e1:titulo>
+        <e1:isn>WR323324873</e1:isn>
+        <e1:editorial>Casa azul</e1:editorial>
+        <e1:fecha_publicacion>01/06/2005</e1:fecha_publicacion>
+    </e1:libro1>
+    <e1:libro1>
+        <e1:autores>
+            <e1:autor>
+                <e1:nombre>Alberto</e1:nombre>
+                <e1:apellido1>Marquez</e1:apellido1>
+                <e1:apellido2>Mendoza</e1:apellido2>
+            </e1:autor>
+        </e1:autores>
+        <e1:titulo>El agua que se ahoga</e1:titulo>
+        <e1:isn>GH43554389</e1:isn>
+        <e1:editorial>Montoya</e1:editorial>
+        <e1:fecha_publicacion>17/11/2010</e1:fecha_publicacion>
+    </e1:libro1>
+        <e1:libro1>
+           <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Zacarias</e1:nombre>
+                    <e1:apellido1>Argustre</e1:apellido1>
+                    <e1:apellido2>Vargas</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>El abuelo que salto por la ventana</e1:titulo>
+            <e1:isn>AQ80156488</e1:isn>
+            <e1:editorial>Pepas</e1:editorial>
+            <e1:fecha_publicacion>25/09/1990</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Miguel</e1:nombre>
+                    <e1:apellido1>Flores</e1:apellido1>
+                    <e1:apellido2>Moneo</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Sin ti no soy nadie</e1:titulo>
+            <e1:isn>GJ69451236</e1:isn>
+            <e1:editorial>Juarez</e1:editorial>
+            <e1:fecha_publicacion>30/09/2004</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+        <e1:libro1>
+            <e1:autores>
+                <e1:autor>
+                    <e1:nombre>Jamela</e1:nombre>
+                    <e1:apellido1>Contreras</e1:apellido1>
+                    <e1:apellido2>Mouslim</e1:apellido2>
+                </e1:autor>
+            </e1:autores>
+            <e1:titulo>Todo bien</e1:titulo>
+            <e1:isn>KL477120375</e1:isn>
+            <e1:editorial>Montoya</e1:editorial>
+            <e1:fecha_publicacion>25/09/2001</e1:fecha_publicacion>
+        </e1:libro1>
+</e1:libros>
