@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8850-1"?>
+<listalibros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="listalibros.xsd">
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mendoza</apellido1>
+                <apellido2>Marquez</apellido2>
+                <nombre>Alberto</nombre>
+            </autor>
+        </autores>
+        <titulo>La vida del guerreo</titulo>
+        <editorial>Samantas SM</editorial>
+        <fechaPublicacion>Junio 2016</fechaPublicacion>
+        <ISBN>5-5435-678-89</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Perez</apellido1>
+                <apellido2>Galistep</apellido2>
+                <nombre>Jesus</nombre>
+            </autor>
+        </autores>
+        <titulo>La Fortuna</titulo>
+        <editorial>Money Team TMº</editorial>
+        <fechaPublicacion>Enero de 2008</fechaPublicacion>
+        <ISBN>5-444-44-6555</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+</listalibros>
