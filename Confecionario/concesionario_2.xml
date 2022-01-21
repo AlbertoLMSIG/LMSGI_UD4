@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="concesionario.xsd">
+        <coche>
+            <codigoCoche>1</codigoCoche>
+            <marca>BMW</marca>
+            <modelo>M3</modelo>
+            <matricula>KLM-898</matricula>
+            <potencia>260</potencia>
+            <plazas>4</plazas>
+            <numerosPuertas>5</numerosPuertas>
+        </coche>
+        <coche>
+            <codigoCoche>2</codigoCoche>
+            <marca>AUDI</marca>
+            <modelo>RS7</modelo>
+            <matricula>LMO-453</matricula>
+            <potencia>190</potencia>
+            <plazas>5</plazas>
+            <numerosPuertas>5</numerosPuertas>
+        </coche>
+        <coche>
+            <codigoCoche>3</codigoCoche>
+            <marca>Mercedez</marca>
+            <modelo>AMG-Clase C</modelo>
+            <matricula>KLOP-5434</matricula>
+            <potencia>450</potencia>
+            <plazas>5</plazas>
+            <numerosPuertas>4</numerosPuertas>
+            </coche>
+        <coche>
+            <codigoCoche>4</codigoCoche>
+            <marca>Mercedez</marca>
+            <modelo>Clase A</modelo>
+            <matricula>KLOP-t545</matricula>
+            <potencia>160</potencia>
+            <plazas>5</plazas>
+            <numerosPuertas>4</numerosPuertas>
+        </coche>
+        <coche>
+            <codigoCoche>5</codigoCoche>
+            <marca>Skoda</marca>
+            <modelo>Metaury</modelo>
+            <matricula>pott-5434</matricula>
+            <potencia>90</potencia>
+            <plazas>5</plazas>
+            <numerosPuertas>4</numerosPuertas>
+            </coche>    
+        </concesionario>
+        

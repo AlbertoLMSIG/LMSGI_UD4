@@ -53,4 +53,69 @@
         <fechaPublicacion>Enero de 2020</fechaPublicacion>
         <ISBN>5-4323-546-654</ISBN>
     </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mouslim</apellido1>
+                <apellido2>Contreras</apellido2>
+                <nombre>Jamela</nombre>
+            </autor>
+        </autores>
+        <titulo>Lobo solitario</titulo>
+        <editorial>AirLoves TMº</editorial>
+        <fechaPublicacion>Enero de 2020</fechaPublicacion>
+        <ISBN>5-4323-546-654</ISBN>
+    </libro>
 </listalibros>
