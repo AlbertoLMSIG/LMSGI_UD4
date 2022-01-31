@@ -1,0 +1,9 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT modulos (modulo)+>
+<!ELEMENT modulo (nombre,contenido+)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT contenido (ud,tipo,descripcion)>
+<!ELEMENT ud (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

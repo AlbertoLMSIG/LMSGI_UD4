@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Moduloscfgs.xsd">
+    <modulo>
+        <nombre>Lenguaje de Marca</nombre>
+        <contenido>
+            <ud> 3 </ud>
+            <tipo>Almacenamiento de la informacion</tipo>
+            <descripcion>Procesar la informacion</descripcion>
+        </contenido>
+        <contenido>
+            <ud> 4 </ud>
+            <tipo> XML</tipo>
+            <descripcion>Uso de xml, dtd y xsd</descripcion>
+        </contenido>
+    </modulo>
+    <modulo>
+        <nombre>Base de datos</nombre>
+        <contenido>
+            <ud> 5 </ud>
+            <tipo> MYSQL </tipo>
+            <descripcion> Generar base de datos y administrala </descripcion>
+        </contenido>
+    </modulo>
+    <modulo>
+        <nombre>Programacion</nombre>
+        <contenido>
+            <ud> 4 </ud>
+            <tipo> JAVA </tipo>
+            <descripcion> Aprender con juegos </descripcion>
+        </contenido>
+    </modulo>
+</modulos>
+    
