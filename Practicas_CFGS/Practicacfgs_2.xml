@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Practicacfgs.xsd">
+    <alumno>
+    <nif>32895754G</nif>
+    <resultado>Apto</resultado>
+    <observaciones>Buen estudiante y trabajador</observaciones>
+    <ip>192.168.55.3</ip>
+    </alumno>        
+    <alumno>
+    <nif>37795794G</nif>
+    <resultado>No Apto</resultado>
+    <observaciones>Falta ha clase casi a diario</observaciones>
+    <ip>192.168.55.189</ip>
+    </alumno>        
+    <alumno>
+    <nif>82298784G</nif>
+    <resultado>Apto</resultado>
+    <observaciones>Buen estudiante pero muy vago</observaciones>
+    <ip>192.168.55.100</ip>
+    </alumno>        
+</alumnos>

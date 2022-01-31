@@ -1,0 +1,7 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT alumnos (alumno)+>
+<!ELEMENT alumno (nif,resultado,observaciones,ip)>
+<!ELEMENT nif (#PCDATA)>
+<!ELEMENT resultado (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
+<!ELEMENT ip (#PCDATA)>
