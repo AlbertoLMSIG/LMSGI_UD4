@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="clientev2.xsd">
+    <sede codigo="A1234567">
+        <direccion>Paseo de las Delicias 41/Bloq 3, 3B</direccion>
+        <empleado>Jamela Mouslim Contreras</empleado>
+        <fecha>2022-07-02</fecha>
+        <descripcion>Solvente</descripcion>
+        <cliente codigo="JMC-123">
+            <numero>1</numero>
+            <vivienda ID ="001">            
+                <coste>49.000</coste>
+                <resumen>Con muebles</resumen>
+                <plazo>28</plazo>
+            </vivienda>
+            <vivienda ID ="002">            
+                <coste>49.000</coste>
+                <resumen>Con muebles</resumen>
+                <plazo>28</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+    <sede codigo="B1234567">
+        <direccion>Avenida Los empresariales/98</direccion>
+        <empleado>Alberto Marquez Mendoza</empleado>
+        <fecha>2022-01-13</fecha>
+        <descripcion>Insolvente</descripcion>
+        <cliente codigo="AMM-456">
+            <numero>2</numero>
+            <vivienda ID="003">
+                <coste>467.000</coste>
+                <resumen>Sin muebles</resumen>
+                <plazo>40</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+</clientes>
