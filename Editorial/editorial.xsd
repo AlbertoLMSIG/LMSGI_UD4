@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="editorial">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="cabecera"/>
+        <xs:element ref="tabla"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cabecera">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="titulo"/>
+        <xs:element ref="subtitulo"/>
+        <xs:element ref="descripcion"/>
+        <xs:element ref="fechaInforme"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titulo" type="xs:string"/>
+  <xs:element name="subtitulo" type="xs:string"/>
+  <xs:element name="descripcion" type="xs:string"/>
+  <xs:element name="fechaInforme" type="xs:string"/>
+  <xs:element name="tabla">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="region"/>
+        <xs:element ref="trimestre"/>
+        <xs:element ref="librosvendidos"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="region">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="centro"/>
+        <xs:element ref="norte"/>
+        <xs:element ref="sur"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="centro">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="librosVendidos"/>
+        <xs:element ref="trimestre"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="norte">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="librosVendidos"/>
+        <xs:element ref="trimestre"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sur">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="librosVendidos"/>
+        <xs:element ref="trimestre"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="librosvendidos" type="xs:string"/>
+  <xs:element name="librosVendidos" type="xs:NMTOKEN"/>
+  <xs:element name="trimestre" type="xs:NMTOKEN"/>
+</xs:schema>
