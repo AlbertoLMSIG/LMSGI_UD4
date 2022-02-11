@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<editorial>
     <cabecera>
         <titulo>Ediciones Aranda</titulo>
         <subtitulo>Informe regional de ventas</subtitulo>
@@ -7,34 +8,40 @@
     </cabecera>
     <tabla>
         <region> NORTE
-            <trimestre>1</trimestre>
-            <librosVendidos>24000</librosVendidos>
-            <trimestre>2</trimestre>
-            <librosVendidos>38600</librosVendidos>
-            <trimestre>3</trimestre>
-            <librosVendidos>NO_INFO</librosVendidos>
-            <trimestre>4</trimestre>
-            <librosVendidos>NO_INFO</librosVendidos>
+            <norte>
+                <trimestre>1</trimestre>
+                    <librosVendidos>24000</librosVendidos>
+                <trimestre>2</trimestre>
+                    <librosVendidos>38600</librosVendidos>
+                <trimestre>3</trimestre>
+                    <librosVendidos>NO_INFO</librosVendidos>
+                <trimestre>4</trimestre>
+                    <librosVendidos>NO_INFO</librosVendidos>
+            </norte>
        </region>
        <region> CENTRO
-            <trimestre>1</trimestre>
-            <librosVendidos>NO_INFO</librosVendidos>
-            <trimestre>2</trimestre>
-            <librosVendidos>16080</librosVendidos>
-            <trimestre>3</trimestre>
-            <librosVendidos>25000</librosVendidos>
-            <trimestre>4</trimestre>
-            <librosVendidos>29000</librosVendidos>
+            <centro>
+                <trimestre>1</trimestre>
+                    <librosVendidos>NO_INFO</librosVendidos>
+                <trimestre>2</trimestre>
+                    <librosVendidos>16080</librosVendidos>
+                <trimestre>3</trimestre>
+                    <librosVendidos>25000</librosVendidos>
+                <trimestre>4</trimestre>
+                    <librosVendidos>29000</librosVendidos>
+            </centro>
         </region>        
         <region> SUR
-            <trimestre>1</trimestre>
-            <librosVendidos>27000</librosVendidos>
-            <trimestre>2</trimestre>
-            <librosVendidos>31400</librosVendidos>
-            <trimestre>3</trimestre>
-            <librosVendidos>40100</librosVendidos>
-            <trimestre>4</trimestre>
-            <librosVendidos>30000</librosVendidos>
+            <sur>
+                <trimestre>1</trimestre>
+                    <librosVendidos>27000</librosVendidos>
+                <trimestre>2</trimestre>
+                    <librosVendidos>31400</librosVendidos>
+                <trimestre>3</trimestre>
+                    <librosVendidos>40100</librosVendidos>
+                <trimestre>4</trimestre>
+                    <librosVendidos>30000</librosVendidos>
+            </sur>
        </region>
     </tabla>
-</clientes>
+</editorial>
