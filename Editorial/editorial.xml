@@ -7,8 +7,8 @@
         <fechaInforme>31/12/2009</fechaInforme>
     </cabecera>
     <tabla>
-        <region> NORTE
-            <norte>
+        <region> 
+            <norte> NORTE
                 <trimestre>1</trimestre>
                     <librosVendidos>24000</librosVendidos>
                 <trimestre>2</trimestre>
@@ -20,7 +20,7 @@
             </norte>
        </region>
        <region> CENTRO
-            <centro>
+            <centro> CENTRO
                 <trimestre>1</trimestre>
                     <librosVendidos>NO_INFO</librosVendidos>
                 <trimestre>2</trimestre>
@@ -31,8 +31,8 @@
                     <librosVendidos>29000</librosVendidos>
             </centro>
         </region>        
-        <region> SUR
-            <sur>
+        <region> 
+            <sur> SUR
                 <trimestre>1</trimestre>
                     <librosVendidos>27000</librosVendidos>
                 <trimestre>2</trimestre>
@@ -43,5 +43,7 @@
                     <librosVendidos>30000</librosVendidos>
             </sur>
        </region>
+       <trimestre>Trimestres</trimestre>
+       <librosvendidos>Libros Vendidos</librosvendidos>
     </tabla>
 </editorial>
