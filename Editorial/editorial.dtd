@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT editorial (cabecera|tabla)*>
+<!ELEMENT cabecera (titulo|subtitulo|descripcion|fechaInforme)*>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT subtitulo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fechaInforme (#PCDATA)>
+<!ELEMENT tabla (region|trimestre|librosvendidos)*>
+<!ELEMENT region (#PCDATA|norte|centro|sur)*>
+<!ELEMENT norte (#PCDATA|trimestre|librosVendidos)*>
+<!ELEMENT trimestre (#PCDATA)>
+<!ELEMENT librosVendidos (#PCDATA)>
+<!ELEMENT centro (#PCDATA|trimestre|librosVendidos)*>
+<!ELEMENT sur (#PCDATA|trimestre|librosVendidos)*>
+<!ELEMENT librosvendidos (#PCDATA)>
